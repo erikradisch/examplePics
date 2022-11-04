@@ -1,5 +1,5 @@
 # Publicly accessible Example Pictures of Experiments for "Buddhist Murals of Kucha on the Northern Silk Road. An Approach to Semi-Automated Annotation"
-(confidence for inference: 0.7)
+(confidence for inference: 0.6)
 
 
 If you are interested in the complete results, please contact: radisch@saw-leipzig.de
